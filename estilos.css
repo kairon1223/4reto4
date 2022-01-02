@@ -1,0 +1,22 @@
+.casa{
+    color: rgb(255, 237, 237);
+    font-size: 8px;
+   top: 50px;
+   left: 60px;
+    position: absolute;
+
+}
+
+.borde{
+    left: 27px;
+    margin-top: 40px;
+    width: 300px;
+    height: 100px;
+    border:solid rgb(70, 70, 70);
+    position: relative;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(28, 28, 51);
+}
